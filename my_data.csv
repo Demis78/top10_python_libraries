@@ -1,7 +1,7 @@
-distance, brightness, mass
-0.1, 0.20, 0.30
-0.2, 0.30, 0.40
-0.3, 0.34, 0.44
-0.4, 0.35, 0.34
-0.5, 0.32, 0.29
-0.6, 0.23, 0.12
+planet, distance, brightness, mass
+mandalore, 0.1, 0.20, 0.30
+coruscant, 0.2, 0.30, 0.40
+ryloth, 0.3, 0.34, 0.44
+tatooine, 0.4, 0.35, 0.34
+hoth, 0.5, 0.32, 0.29
+illum, 0.6, 0.23, 0.12
